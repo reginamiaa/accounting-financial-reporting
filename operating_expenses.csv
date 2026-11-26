@@ -1,0 +1,61 @@
+﻿expense_id,expense_date,expense_category,account_code,description,amount,payment_status,payment_method
+EXP-01-01,2025-01-24,Rent Expense,6000,Rent Expense - January 2025,3734299.74,Paid,Bank Transfer
+EXP-01-02,2025-01-25,Salaries Expense,6100,Salaries Expense - January 2025,7748377.85,Paid,Bank Transfer
+EXP-01-03,2025-01-26,Utilities Expense,6200,Utilities Expense - January 2025,924741.92,Paid,Bank Transfer
+EXP-01-04,2025-01-27,Marketing Expense,6300,Marketing Expense - January 2025,1134688.56,Paid,Bank Transfer
+EXP-01-05,2025-01-24,Office Supplies Expense,6400,Office Supplies Expense - January 2025,411650.6,Paid,Bank Transfer
+EXP-02-01,2025-02-24,Rent Expense,6000,Rent Expense - February 2025,3578597.54,Paid,Bank Transfer
+EXP-02-02,2025-02-25,Salaries Expense,6100,Salaries Expense - February 2025,7848677.3,Paid,Bank Transfer
+EXP-02-03,2025-02-26,Utilities Expense,6200,Utilities Expense - February 2025,959419.59,Paid,Bank Transfer
+EXP-02-04,2025-02-27,Marketing Expense,6300,Marketing Expense - February 2025,1262913.9,Paid,Bank Transfer
+EXP-02-05,2025-02-24,Office Supplies Expense,6400,Office Supplies Expense - February 2025,418985.36,Paid,Bank Transfer
+EXP-03-01,2025-03-24,Rent Expense,6000,Rent Expense - March 2025,3640711.28,Paid,Bank Transfer
+EXP-03-02,2025-03-25,Salaries Expense,6100,Salaries Expense - March 2025,7836128.55,Paid,Bank Transfer
+EXP-03-03,2025-03-26,Utilities Expense,6200,Utilities Expense - March 2025,950530.04,Paid,Bank Transfer
+EXP-03-04,2025-03-27,Marketing Expense,6300,Marketing Expense - March 2025,1204724.16,Paid,Bank Transfer
+EXP-03-05,2025-03-24,Office Supplies Expense,6400,Office Supplies Expense - March 2025,394649.44,Paid,Bank Transfer
+EXP-04-01,2025-04-24,Rent Expense,6000,Rent Expense - April 2025,3570304.24,Paid,Bank Transfer
+EXP-04-02,2025-04-25,Salaries Expense,6100,Salaries Expense - April 2025,8494751.65,Paid,Bank Transfer
+EXP-04-03,2025-04-26,Utilities Expense,6200,Utilities Expense - April 2025,951032.92,Paid,Bank Transfer
+EXP-04-04,2025-04-27,Marketing Expense,6300,Marketing Expense - April 2025,1174156.73,Paid,Bank Transfer
+EXP-04-05,2025-04-24,Office Supplies Expense,6400,Office Supplies Expense - April 2025,431327.63,Paid,Bank Transfer
+EXP-05-01,2025-05-24,Rent Expense,6000,Rent Expense - May 2025,3606560.53,Paid,Bank Transfer
+EXP-05-02,2025-05-25,Salaries Expense,6100,Salaries Expense - May 2025,8297070.71,Paid,Bank Transfer
+EXP-05-03,2025-05-26,Utilities Expense,6200,Utilities Expense - May 2025,952713.36,Paid,Bank Transfer
+EXP-05-04,2025-05-27,Marketing Expense,6300,Marketing Expense - May 2025,1228330.16,Paid,Bank Transfer
+EXP-05-05,2025-05-24,Office Supplies Expense,6400,Office Supplies Expense - May 2025,376710.24,Paid,Bank Transfer
+EXP-06-01,2025-06-24,Rent Expense,6000,Rent Expense - June 2025,3637281.12,Paid,Bank Transfer
+EXP-06-02,2025-06-25,Salaries Expense,6100,Salaries Expense - June 2025,8447422.79,Paid,Bank Transfer
+EXP-06-03,2025-06-26,Utilities Expense,6200,Utilities Expense - June 2025,892455.73,Paid,Bank Transfer
+EXP-06-04,2025-06-27,Marketing Expense,6300,Marketing Expense - June 2025,1261455.24,Paid,Bank Transfer
+EXP-06-05,2025-06-24,Office Supplies Expense,6400,Office Supplies Expense - June 2025,385644.47,Paid,Bank Transfer
+EXP-07-01,2025-07-24,Rent Expense,6000,Rent Expense - July 2025,3734306.7,Paid,Bank Transfer
+EXP-07-02,2025-07-25,Salaries Expense,6100,Salaries Expense - July 2025,7526007.16,Paid,Bank Transfer
+EXP-07-03,2025-07-26,Utilities Expense,6200,Utilities Expense - July 2025,910188.3,Paid,Bank Transfer
+EXP-07-04,2025-07-27,Marketing Expense,6300,Marketing Expense - July 2025,1181776.27,Paid,Bank Transfer
+EXP-07-05,2025-07-24,Office Supplies Expense,6400,Office Supplies Expense - July 2025,419040.31,Paid,Bank Transfer
+EXP-08-01,2025-08-24,Rent Expense,6000,Rent Expense - August 2025,3512768.36,Paid,Bank Transfer
+EXP-08-02,2025-08-25,Salaries Expense,6100,Salaries Expense - August 2025,8538588.03,Paid,Bank Transfer
+EXP-08-03,2025-08-26,Utilities Expense,6200,Utilities Expense - August 2025,886949.82,Paid,Bank Transfer
+EXP-08-04,2025-08-27,Marketing Expense,6300,Marketing Expense - August 2025,1203052.84,Paid,Bank Transfer
+EXP-08-05,2025-08-24,Office Supplies Expense,6400,Office Supplies Expense - August 2025,392313.01,Paid,Bank Transfer
+EXP-09-01,2025-09-24,Rent Expense,6000,Rent Expense - September 2025,3514610.53,Paid,Bank Transfer
+EXP-09-02,2025-09-25,Salaries Expense,6100,Salaries Expense - September 2025,7626295.35,Paid,Bank Transfer
+EXP-09-03,2025-09-26,Utilities Expense,6200,Utilities Expense - September 2025,964754.68,Paid,Bank Transfer
+EXP-09-04,2025-09-27,Marketing Expense,6300,Marketing Expense - September 2025,1161163.85,Paid,Bank Transfer
+EXP-09-05,2025-09-24,Office Supplies Expense,6400,Office Supplies Expense - September 2025,427486.99,Paid,Bank Transfer
+EXP-10-01,2025-10-24,Rent Expense,6000,Rent Expense - October 2025,3656386.28,Paid,Bank Transfer
+EXP-10-02,2025-10-25,Salaries Expense,6100,Salaries Expense - October 2025,8381004.43,Paid,Bank Transfer
+EXP-10-03,2025-10-26,Utilities Expense,6200,Utilities Expense - October 2025,880628.43,Paid,Bank Transfer
+EXP-10-04,2025-10-27,Marketing Expense,6300,Marketing Expense - October 2025,1264226.44,Paid,Bank Transfer
+EXP-10-05,2025-10-24,Office Supplies Expense,6400,Office Supplies Expense - October 2025,395971.9,Paid,Bank Transfer
+EXP-11-01,2025-11-24,Rent Expense,6000,Rent Expense - November 2025,3779485.95,Paid,Bank Transfer
+EXP-11-02,2025-11-25,Salaries Expense,6100,Salaries Expense - November 2025,7582608.77,Paid,Bank Transfer
+EXP-11-03,2025-11-26,Utilities Expense,6200,Utilities Expense - November 2025,853052.81,Paid,Bank Transfer
+EXP-11-04,2025-11-27,Marketing Expense,6300,Marketing Expense - November 2025,1214802.04,Paid,Bank Transfer
+EXP-11-05,2025-11-24,Office Supplies Expense,6400,Office Supplies Expense - November 2025,391909.15,Paid,Bank Transfer
+EXP-12-01,2025-12-24,Rent Expense,6000,Rent Expense - December 2025,3299107.48,Paid,Bank Transfer
+EXP-12-02,2025-12-25,Salaries Expense,6100,Salaries Expense - December 2025,8407836.38,Paid,Bank Transfer
+EXP-12-03,2025-12-26,Utilities Expense,6200,Utilities Expense - December 2025,942900.33,Paid,Bank Transfer
+EXP-12-04,2025-12-27,Marketing Expense,6300,Marketing Expense - December 2025,1227784.41,Paid,Bank Transfer
+EXP-12-05,2025-12-24,Office Supplies Expense,6400,Office Supplies Expense - December 2025,414215.65,Paid,Bank Transfer

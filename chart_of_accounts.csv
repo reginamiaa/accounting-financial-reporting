@@ -1,0 +1,19 @@
+﻿account_code,account_name,account_type,normal_balance
+1000,Cash and Cash Equivalents,Asset,Debit
+1100,Accounts Receivable,Asset,Debit
+1200,Inventory,Asset,Debit
+1500,Office Equipment,Asset,Debit
+1590,Accumulated Depreciation,Contra Asset,Credit
+2000,Accounts Payable,Liability,Credit
+2300,Bank Loan Payable,Liability,Credit
+3000,Share Capital,Equity,Credit
+3100,Retained Earnings,Equity,Credit
+4000,Sales Revenue,Revenue,Credit
+4100,Sales Returns and Allowances,Contra Revenue,Debit
+5000,Cost of Goods Sold,Expense,Debit
+6000,Rent Expense,Expense,Debit
+6100,Salaries Expense,Expense,Debit
+6200,Utilities Expense,Expense,Debit
+6300,Marketing Expense,Expense,Debit
+6400,Office Supplies Expense,Expense,Debit
+6500,Depreciation Expense,Expense,Debit
